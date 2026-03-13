@@ -1,0 +1,15 @@
+Annealing Lonsdaleite (Hexagonal Diamond)
+
+This diagram illustrates the controlled annealing process for lonsdaleite:
+
+Encapsulation in inert metal (Ta/Mo) to prevent contamination
+
+Gradual heating to 600–1200°C, below diamond stability limit
+
+Optional moderate pressure to stabilize the hexagonal lattice
+
+Short hold times to relieve stress and repair lattice defects
+
+Controlled cooling to preserve hexagonal structure and prevent conversion to cubic diamond
+
+The process improves toughness, reduces microcracks, and stabilizes the metastable phase for industrial applications.
