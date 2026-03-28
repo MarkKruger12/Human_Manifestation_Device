@@ -1,5 +1,10 @@
 ﻿# Human Manifestation Device (v1.0)
 
+ Human-Manifestation-Device (v1.0)
+64-bit Generative Logic & Phase-Shift Resolution
+Master Engineer: Mark Kruger (Red Seal Machinist, 1996)
+Academic Foundation: MSU Math/Physics
+
 ## 0.0 Overview: The Geometric Forge
 The **Human Manifestation Device** is a 64-bit analytical framework designed to map the topological transitions of biological sequences. By utilizing **Belnap-W Tesseract Physics**, this project identifies the specific coordinates where matter manifests from a state of general conduction to a specific biological instruction.
 
